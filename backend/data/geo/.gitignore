@@ -1,0 +1,6 @@
+# Ignore very large geo files if downloaded manually
+village.geojson
+**/village.geojson
+taluk.geojson
+**/taluk.geojson
+wards/

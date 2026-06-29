@@ -1,0 +1,89 @@
+{
+  "source": "geohacker/kerala",
+  "districts": [
+    {
+      "name": "Alappuzha",
+      "slug": "alappuzha",
+      "census_code": 598,
+      "dt_cen_cd": 11
+    },
+    {
+      "name": "Ernakulam",
+      "slug": "ernakulam",
+      "census_code": 595,
+      "dt_cen_cd": 8
+    },
+    {
+      "name": "Idukki",
+      "slug": "idukki",
+      "census_code": 596,
+      "dt_cen_cd": 9
+    },
+    {
+      "name": "Kannur",
+      "slug": "kannur",
+      "census_code": 589,
+      "dt_cen_cd": 2
+    },
+    {
+      "name": "Kasaragod",
+      "slug": "kasaragod",
+      "census_code": 588,
+      "dt_cen_cd": 1
+    },
+    {
+      "name": "Kollam",
+      "slug": "kollam",
+      "census_code": 600,
+      "dt_cen_cd": 13
+    },
+    {
+      "name": "Kottayam",
+      "slug": "kottayam",
+      "census_code": 597,
+      "dt_cen_cd": 10
+    },
+    {
+      "name": "Kozhikode",
+      "slug": "kozhikode",
+      "census_code": 591,
+      "dt_cen_cd": 4
+    },
+    {
+      "name": "Malappuram",
+      "slug": "malappuram",
+      "census_code": 592,
+      "dt_cen_cd": 5
+    },
+    {
+      "name": "Palakkad",
+      "slug": "palakkad",
+      "census_code": 593,
+      "dt_cen_cd": 6
+    },
+    {
+      "name": "Pathanamthitta",
+      "slug": "pathanamthitta",
+      "census_code": 599,
+      "dt_cen_cd": 12
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "slug": "thiruvananthapuram",
+      "census_code": 601,
+      "dt_cen_cd": 14
+    },
+    {
+      "name": "Thrissur",
+      "slug": "thrissur",
+      "census_code": 594,
+      "dt_cen_cd": 7
+    },
+    {
+      "name": "Wayanad",
+      "slug": "wayanad",
+      "census_code": 590,
+      "dt_cen_cd": 3
+    }
+  ]
+}
